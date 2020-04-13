@@ -3,7 +3,7 @@
 
 Designed for GitHub Pages for super easy set up. 
 
-🔧 Fork this repo
+🔧 Fork this repo oooo another project
 
 🗝 Enter iOS App ID in `_config.yml`
 
